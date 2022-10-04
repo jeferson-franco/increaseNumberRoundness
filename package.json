@@ -1,0 +1,20 @@
+{
+    "name": "increasenumberroundness",
+    "version": "1.0.0",
+    "description": "Define an integer's _roundness_ as the number of trailing zeroes in it.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/increaseNumberRoundness.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/increaseNumberRoundness/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/increaseNumberRoundness#readme"
+}
